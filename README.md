@@ -20,7 +20,7 @@ This project uses a pre-trained deep learning model to identify dog breeds from 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds.git
+git clone https://github.com/Hajer45/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 cd Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 ```
 
